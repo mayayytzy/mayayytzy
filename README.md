@@ -1,29 +1,28 @@
 <div align="center">
-  <img src="https://i.pinimg.com/1200x/d3/00/78/d3007818ff9e8a47f20060c08cbaa227.jpg" 
-       alt="banner" 
-       style="width:100%; max-width:100%; display:block; border-radius:8px;"/>
+  <img src="https://i.pinimg.com/1200x/d3/00/78/d3007818ff9e8a47f20060c08cbaa227.jpg"
+       alt="banner"
+       style="width:100%; max-width:100%; display:block; border-radius:8px;" />
 </div>
 
 <br>
 
-<table>
-  <tr>
-    <td width="160">
-      <img 
-        src="https://i.pinimg.com/736x/db/d2/85/dbd285e2586e8e448e4630f2be585ce8.jpg" 
-        width="150" 
-        style="border-radius:50%; border: 5px solid #fff; box-shadow: 0 10px 30px rgba(0,0,0,0.2);" 
-      />
-    </td>
-    <td>
-      <h1>Hi, I'm Mayayayy 👋</h1>
-      <p>
-        <strong>K-Drama enthusiast</strong> yang suka nonton sambil nge-code.<br>
-        Kalau lagi gak nonton drakor, ya lagi bikin sesuatu pake JavaScript lah ✨
-      </p>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img 
+    src="https://i.pinimg.com/736x/db/d2/85/dbd285e2586e8e448e4630f2be585ce8.jpg" 
+    width="150" 
+    style="border-radius:50%; border: 5px solid #fff; box-shadow: 0 10px 30px rgba(0,0,0,0.2);" 
+  />
+
+  <div>
+    <h1>Hi, I'm Mayayayy 👋</h1>
+    <p>
+      <strong>K-Drama enthusiast</strong> yang suka nonton sambil nge-code.<br>
+      Kalau lagi gak nonton drakor, ya lagi bikin sesuatu pake JavaScript lah ✨
+    </p>
+  </div>
+</div>
+
+<br><br>
 
 ---
 
