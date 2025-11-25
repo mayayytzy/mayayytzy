@@ -1,6 +1,9 @@
-<div align="center">
-  <img src="https://i.pinimg.com/1200x/d3/00/78/d3007818ff9e8a47f20060c08cbaa227.jpg" alt="banner" style="width:100%; max-width:100%; display:block; border-radius:8px;"/>
+div align="center">
+  <img src="https://i.pinimg.com/1200x/d3/00/78/d3007818ff9e8a47f20060c08cbaa227.jpg" 
+       alt="banner" 
+       style="width:100%; max-width:800px; display:block; border-radius:8px;"/>
 </div>
+
 
 <br>
 
