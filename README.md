@@ -34,10 +34,6 @@
   Currently learning: <b>biar bisa bikin web yang makin cakep</b></samp>
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/Wfz0I4rKPrlQ4/giphy.gif" width="300"/>
-</div>
-
 ###
 
 <picture>
@@ -47,3 +43,8 @@
 </picture>
 
 ###
+
+<div align="center">
+  <img src="https://media.giphy.com/media/Wfz0I4rKPrlQ4/giphy.gif" width="300"/>
+</div>
+
