@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-  <img src="https://i.pinimg.com/1200x/70/a1/ac/70a1ac1500930f17f1e68e52722d9a78.jpg" width="150" style="border-radius:50%; border: 5px solid #fff; box-shadow: 0 10px 30px rgba(0,0,0,0.2);"/>
+  <img src="(https://i.pinimg.com/736x/db/d2/85/dbd285e2586e8e448e4630f2be585ce8.jpg)" width="150" style="border-radius:50%; border: 5px solid #fff; box-shadow: 0 10px 30px rgba(0,0,0,0.2);"/>
 </div>
 
 <h1 align="center">Hi, I'm Mayayayy 👋</h1>
