@@ -1,8 +1,26 @@
-<h1 align="center">Hey 👋 What's up?</h1>
+<h1 align="center"></h1>
+
+###
+
+<h1 align="left">Hello World!!</h1>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/1200x/d3/00/78/d3007818ff9e8a47f20060c08cbaa227.jpg"  />
+</div>
 
 ###
 
 <p align="left">Hello, I'm Mayayayy</p>
+
+###
+
+<br clear="both">
+
+<img align="left" height="130" src="https://i.pinimg.com/736x/82/eb/b4/82ebb4e3969986edb6bad362296897b4.jpg"  />
 
 ###
 
@@ -23,17 +41,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm1qdmxyNWI0cmUxdnVhYW9mZjNxZ2k1YWZzOWJlZWdsbnUwaGJ2ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/C7HPB3DAeucZ43X87m/giphy.gif"  />
 </div>
 
 ###
