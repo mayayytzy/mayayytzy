@@ -34,8 +34,8 @@
 <br>
 
 <p align="center" style="font-style: italic; color: #777;">
-  <samp>Currently binging: <b>drakor terbaru</b> <br>
-  Currently learning: <b>biar bisa bikin web yang makin cakep</b></samp>
+  <samp>Currently binging: <b>NIKAH SAMA KARINA</b> <br>
+  LISTENING: <b>WHITE KEYS</b></samp>
 </p>
 
 ---
