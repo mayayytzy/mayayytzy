@@ -13,8 +13,7 @@
 
 <h1 align="center" style="margin-top: 15px; margin-bottom: 8px;">Mayayayy</h1>
 
-<p align="center" style="margin-top: 0; font-size: 1.15em; color: #2d3748; font-weight: 500;">
-  Frontend Developer
+<p align="center" style="margin-top: 0; font-size: 1.15em; color: #2d3748; font-weight: 500;">LMAOO
 </p>
 
 <p align="center" style="max-width: 580px; margin: 0 auto 25px auto; color: #4a5568; font-size: 0.95em; line-height: 1.6;">
