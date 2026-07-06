@@ -7,10 +7,6 @@
     <strong>A passionate Frontend Developer who loves crafting visually stunning, responsive, and interactive web experiences. </strong>
   </p>
 
-  <p align="center">
-    <a href="https://github.com/Fhryn"><img src="https://img.shields.io/github/followers/Fhryn?label=Followers&style=social" alt="GitHub Followers"></a>
-  </p>
-
 </div>
 
 ---
