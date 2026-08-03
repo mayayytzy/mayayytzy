@@ -29,14 +29,4 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
-
-### 🎯 Current Focus
-
-- 💻 Building modern web applications with **React.js** & **Nuxt.js**
-- 🛠️ Expanding skills in fullstack architecture & API integration
-- 📐 Improving clean code practices and UI/UX responsiveness
-
----
-
 
