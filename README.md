@@ -1,21 +1,6 @@
 <div align="center">
 
   <h1>Hi, I'm Fahriansyah</h1>
-  <p><strong>Frontend Developer</strong></p>
-
-  <p>
-    I build responsive, clean, and user-friendly web applications using modern web technologies.<br />
-    Passionate about frontend development, backend systems, and crafting scalable digital experiences.
-  </p>
-
-  <p>
-    <a href="https://github.com/mayayytzy">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://http://localhost:5173/#">
-      <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
-    </a>
-</div>
 
 ---
 
